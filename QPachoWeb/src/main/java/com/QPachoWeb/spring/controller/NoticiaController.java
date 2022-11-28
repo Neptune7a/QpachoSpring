@@ -34,4 +34,11 @@ public class NoticiaController {
 		
 
 	}
+	
+	@DeleteMapping
+	public noticia deleteNoticia() {
+		
+	}
+	
+	//prueba git
 }
